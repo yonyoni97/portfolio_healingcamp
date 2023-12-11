@@ -38,7 +38,11 @@
 ## 📋ERD
 <img width="800" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/1e1d177a-8998-4a92-84ca-87eefe94452f"/>
 
-<br>
+## 역할분담
+|<img width="80" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/768767d9-6312-4e5b-844c-cbcc63ee21cb"/>|<img width="80" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/b812f1b4-72ae-4bb7-90e4-42663f4cedbd"/>|<img width="80" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/e4b208b6-c12d-4bb0-b4ed-6c789e744ac9"/>|<img width="80" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/936b5346-5839-4b86-97d4-85ed643e4137"/>|<img width="80" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/65733edf-e8fd-4a87-83f2-7bfb7e15c2fc"/>|
+|:---:|:---:|:---:|:---:|:---:|
+|**최영현**|**이종민**|**예이원**|**김동현**|**이동훈**|
+|- 헤더&푸터<br>- 캠핑리스트페이지,<br> 캠핑예약페이지(기능구현)<br>- 상점메인페이지 <br>- 상점리스트페이지<br>- 상점 DB구성<br>- 상점결제페이지(기능구현) <br> - 마이페이지<br>: 회원정보 확인 및 수정, <br> 예약내역 확인 및 취소|- 캠핑상세페이지(기능구현)<br>- 상점상세페이지,<br> 장바구니<br>- 결제페이지(프론트)<br>- 마이페이지<br> : 캠핑장찜, 아이템찜,<br> 리뷰작성 & 확인 & 수정<br> & 삭제|- 캠핑리스트페이지, <br> 캠핑상세페이지,<br> 캠핑예약페이지,<br> 마이페이지(프론트)<br>- 캠핑 DB구성<br>- 전체 프론트 총괄|- 메인페이지<br>- 로그인<br>- 회원가입<br>- 마이페이지 : 포인트<br>- 유저 DB구성|- ERD구성 <br>- 요구사항명세서<br>- 와이어프레임|
 
 ## 📌프로젝트 주요기능
 ### ✔️메인페이지
