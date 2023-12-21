@@ -47,7 +47,7 @@
 ## 📌프로젝트 주요기능
 ### ✔️메인페이지
 <div align="center"> 
-  <img width="500" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/bced8bd3-f053-41f5-aa5d-61cca175c0e5"/>
+  <img width="700" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/bced8bd3-f053-41f5-aa5d-61cca175c0e5"/>
 </div>
 
 - 날씨API : 오늘 날씨를 표시합니다.
@@ -58,7 +58,7 @@
 
 ### ✔️리스트페이지
 <div align="center"> 
-  <img width="500" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/a4dcaa16-2e53-4b0c-b9aa-264ee319a204"/>
+  <img width="700" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/a4dcaa16-2e53-4b0c-b9aa-264ee319a204"/>
 </div>
 
 - 검색 : 키워드, 날짜, 지역으로 검색가능합니다.(기존의 검색 내용은 가지고 옵니다)
@@ -68,7 +68,7 @@
 
 ### ✔️상세페이지               
 <div align="center"> 
-  <img width="500" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/85b0b68b-9e40-4497-b24a-82b6a37663e0"/>
+  <img width="700" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/85b0b68b-9e40-4497-b24a-82b6a37663e0"/>
 </div>
 
 - 이미지슬라이드 : 해당 캠핑장의 이미지를 슬라이드로 보여줍니다.
@@ -80,7 +80,7 @@
 
 ### ✔️예약페이지
 <div align="center"> 
-  <img width="500" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/3b367f1e-5a65-4b7c-840e-dcff6b6a3e03"/>
+  <img width="700" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/3b367f1e-5a65-4b7c-840e-dcff6b6a3e03"/>
 </div>
 
 - 정보표출 : 선택한 캠핑장, 예약자, 날짜 정보를 보여줍니다.
@@ -89,7 +89,7 @@
 
 ### ✔️로그인페이지
 <div align="center"> 
-  <img width="500" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/c6e2949b-0f7a-4f31-9348-d7d20ee53faf"/>
+  <img width="700" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/c6e2949b-0f7a-4f31-9348-d7d20ee53faf"/>
 </div>
 
 - 입력창 : 아이디와 비밀번호를 입력합니다.
@@ -99,8 +99,8 @@
 
 ### ✔️회원가입페이지
 <div align="center"> 
-  <img width="500" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/198f9891-ad72-4060-be3c-95b6a7ef3b04"/>
-    <img width="500" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/33b7009a-de55-45ef-99b0-b5c8621d45cf"/>
+  <img width="700" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/198f9891-ad72-4060-be3c-95b6a7ef3b04"/>
+    <img width="700" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/33b7009a-de55-45ef-99b0-b5c8621d45cf"/>
 </div>
 
 - 필수약관 : 필수약관이 모두 chexked되어야 버튼이 활성화 됩니다.
@@ -128,7 +128,7 @@
 
 ### ✔️상점메인페이지
 <div align="center"> 
-  <img width="500" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/200abdfc-89eb-440b-bcea-f33f0ab0660b"/>
+  <img width="700" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/200abdfc-89eb-440b-bcea-f33f0ab0660b"/>
 </div>
 
 - 검색바 : 상품명 또는 브랜드명으로 검색이 가능합니다.
@@ -141,7 +141,7 @@
 
 ### ✔️상점리스트페이지
 <div align="center"> 
-  <img width="500" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/6284593e-a33c-4198-b8eb-1d9ae0e82397"/>
+  <img width="700" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/6284593e-a33c-4198-b8eb-1d9ae0e82397"/>
 </div>
 
 - 검색바 : 상품명 또는 브랜드명으로 검색이 가능합니다.
@@ -154,7 +154,7 @@
 
 ### ✔️상점상세페이지
 <div align="center"> 
-  <img width="500" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/3eeac82c-9a0c-4555-b0ea-9f4f8c0a0287"/>
+  <img width="700" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/3eeac82c-9a0c-4555-b0ea-9f4f8c0a0287"/>
 </div>
 
 - 찜기능 : 클릭 시 하트의 색이 채워지며 해당 유저의 찜목록에 저장됩니다.
@@ -166,7 +166,7 @@
 
 ### ✔️장바구니페이지
 <div align="center"> 
-  <img width="500" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/570f9260-a173-40a1-a9b0-60af0175dbd8"/>
+  <img width="700" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/570f9260-a173-40a1-a9b0-60af0175dbd8"/>
 </div>
 
 - 수량조정 : 플러스, 마이너스 버튼으로 해당 아이템의 수량을 조정할 수 있습니다.
@@ -177,8 +177,66 @@
 
 ### ✔️결제페이지
 <div align="center"> 
-  <img width="500" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/3f8c7e59-ab79-4e64-82b0-5559f929f279"/>
+  <img width="700" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/3f8c7e59-ab79-4e64-82b0-5559f929f279"/>
 </div>
 
 - 포인트사용 : 포인트를 입력할 경우 보유포인트, 최종결제금액에서 차감됩니다.
 포인트는 보유한 포인트만큼만 입력이 가능합니다.
+
+
+## 🙋🏻‍♀️담당 페이지 주요 기능
+### ⌨️캠핑리스트 페이지
+<div align="center"> 
+  <img width="700" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/b151f7d7-8249-4113-bdf1-133debb77aff"/>
+</div>
+
+1. 해당 날짜의 예약여부를 확인하기 위해 예약 테이블에서 검색한 날짜에 해당하는 캠핑장 제외
+2. 키워드나 옵션이 있을 경우 같이 검색
+3. 정렬방식에 따라 정렬기준 다르게 검색
+
+<hr>
+
+### ⌨️상품메인 페이지
+<div align="center"> 
+  <img width="700" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/cce5b9a6-82ac-4851-b9fc-c63618fe1863"/>
+</div>
+
+1. 현재 세션에 접속한 유저 아이디를 체크해 해당 아이템이 위시리스트에 저장되어 있을 경우 2번 없을경우 1번을 전달
+2. 모델에 저장하여 찜이 되어있을 경우 해당 아이템의 하트색상 빨갛게 해주기
+
+<hr>
+
+### ⌨️상품리스트 페이지
+<div align="center"> 
+  <img width="700" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/b9023ea9-6642-45c7-951a-f7455c41082d"/>
+</div>
+
+1. 현재 세션에 접속한 유저 아이디를 체크해 해당 아이템이 위시리스트에 저장되어 있을 경우 2번 없을경우 1번을 전달
+2. 모델에 저장하여 찜이 되어있을 경우 해당 아이템의 하트색상 빨갛게 해주기
+3. 빈 하트를 클릭 시 클릭한 유저의 위시리스트에 아이템이 있으면 true, 없으면 false를 반환
+4. 컨트롤러에서 받은 결과를 -1, 1, 2 중 해당하는 결과로 ajax에 반환
+5. ajax가 받은 result를 이용해 누르는 즉시 하트 색상 변경
+
+<hr>
+
+### ⌨️마이페이지 - 회원정보 확인/수정
+<div align="center"> 
+  <img width="700" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/dab08e74-2685-421a-9f8b-6c1fd5cfad1d"/>
+</div>
+
+1. 세션에서 유저 아이디를 가져와 회원정보를 띄워주고, 회원 정보 확인하는 부분에서 수 버튼을 누를 경우 userInfoModify 컨트롤러로 해당 유저 아이디를 전송
+2. 변경 후 변경사항 저장을 누를 경우 post 방식으로 변경된 사항을 전달받아 update함.
+3. model 에 저장하여 다시 회원정보 확인창을 띄워줌
+
+<hr>
+
+### ⌨️마이페이지 - 예약내역확인
+<div align="center"> 
+  <img width="700" src="https://github.com/yonyoni97/portfolio_healingcamp/assets/130379192/80166545-d18e-4192-9e3f-60b031fb1794"/>
+</div>
+
+1. 현재 날짜와 예약 시작 날짜 예약 마지막날짜를 비교하여 이용상태를 이용예정, 이용중, 이용완료로 띄워주기
+2. reserveYn결과에 따라 버튼도 변경
+   이용예정 - 예약취소
+   이용중 - 버튼 없음
+   이용완료 - 리뷰작성
